@@ -1,0 +1,125 @@
+# Privacy Policy — Bright Calculator
+
+**Last updated:** May 26, 2026  
+**App:** Bright Calculator (`com.pm.calc`)  
+**Contact:** [malkovych@gmail.com](mailto:malkovych@gmail.com)
+
+---
+
+## English
+
+### Overview
+
+Bright Calculator is a calculator app for iPhone and iPad. We designed it to work **without an account** and **without our own servers** for your calculations or personal profile.
+
+This policy explains what information the app uses, how it is handled, and your choices.
+
+### Information we do not collect
+
+We do **not** collect, store on our servers, or sell:
+
+- Your name, email, or phone number (unless you email us for support)
+- Calculation history for analytics or advertising
+- Precise location
+- Contacts, calendars, or health data
+- Advertising identifiers for cross-app tracking
+
+We do **not** use third-party analytics or advertising SDKs in the app.
+
+### Information stored on your device
+
+The app saves preferences **locally on your device** using iOS storage (for example, `UserDefaults`), such as:
+
+- Selected theme, colors, fonts, and button style
+- Custom themes you create
+- Whether Pro features are unlocked (a local cache of purchase status)
+
+This data stays on your device unless you delete the app or reset the device.
+
+### Photo library (optional)
+
+If you use **Pro** and choose a **custom photo background**, the app requests access to your photo library. You pick a photo; it is used only to display your wallpaper inside the app. We do not upload your photos to our servers.
+
+You can deny or revoke access anytime in **Settings → Privacy & Security → Photos**.
+
+### Purchases (Apple StoreKit)
+
+**Bright Calculator Pro** is sold through **Apple In-App Purchase**. Payment and transaction data are processed by **Apple**, not by us. We only receive information needed to unlock Pro on your device (for example, whether the purchase is active), according to Apple’s rules.
+
+See Apple’s privacy policy: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
+
+### Internet use
+
+The app may connect to the internet only for App Store / purchase-related services provided by Apple. We do not operate a user login backend for the calculator.
+
+### Children
+
+The app is not directed at children under 13. We do not knowingly collect personal information from children.
+
+### Changes
+
+We may update this policy. The “Last updated” date at the top will change. Continued use of the app after changes means you accept the updated policy.
+
+### Contact
+
+Questions about privacy: **malkovych@gmail.com**
+
+---
+
+## Українська
+
+### Загальне
+
+**Bright Calculator** — калькулятор для iPhone та iPad. Застосунок працює **без облікового запису** і **без наших серверів** для зберігання ваших обчислень чи профілю.
+
+Ця політика пояснює, які дані використовує застосунок, як вони обробляються та які у вас є варіанти.
+
+### Що ми не збираємо
+
+Ми **не** збираємо, не зберігаємо на своїх серверах і не продаємо:
+
+- ім’я, email або телефон (окрім випадку, коли ви самі пишете нам у підтримку);
+- історію обчислень для аналітики чи реклами;
+- точну геолокацію;
+- контакти, календар, дані здоров’я;
+- рекламні ідентифікатори для стеження між застосунками.
+
+У застосунку **немає** сторонньої аналітики чи рекламних SDK.
+
+### Дані на вашому пристрої
+
+Налаштування зберігаються **локально на пристрої** (наприклад, через `UserDefaults`):
+
+- обрана тема, кольори, шрифт, стиль кнопок;
+- власні теми, які ви створили;
+- статус Pro (локальна копія результату покупки).
+
+Ці дані залишаються на пристрої, доки ви не видалите застосунок або не скинете пристрій.
+
+### Фототека (за бажанням)
+
+Якщо у **Pro** ви обираєте **власне фото як фон**, застосунок запитує доступ до фототеки. Ви самі обираєте зображення; воно використовується лише для відображення фону в застосунку. Ми **не** завантажуємо ваші фото на свої сервери.
+
+Доступ можна заборонити або відкликати: **Налаштування → Конфіденційність і безпека → Фото**.
+
+### Покупки (Apple StoreKit)
+
+**Bright Calculator Pro** продається через **In-App Purchase Apple**. Платіж і транзакції обробляє **Apple**, не ми. Ми отримуємо лише те, що потрібно для розблокування Pro на пристрої (наприклад, чи активна покупка), згідно з правилами Apple.
+
+Політика конфіденційності Apple: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
+
+### Інтернет
+
+Застосунок може звертатися до мережі лише для сервісів App Store / покупок через Apple. Окремого сервера входу для калькулятора ми не ведемо.
+
+### Діти
+
+Застосунок не призначений для дітей до 13 років. Ми свідомо не збираємо персональні дані дітей.
+
+### Зміни
+
+Політику може бути оновлено. Дата «Last updated» зміниться вгорі документа. Продовження користування після змін означає згоду з оновленою політикою.
+
+### Контакт
+
+Питання щодо конфіденційності: **malkovych@gmail.com**
